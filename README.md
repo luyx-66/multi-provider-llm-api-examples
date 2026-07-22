@@ -33,8 +33,8 @@ Use `--base-url` to target another compatible service.
 ## Related high-volume AI API tools
 
 - [AI API Load Tester](https://github.com/luyx-66/ai-api-load-tester) — benchmark an OpenAI-compatible endpoint
-- [Batch AI Image Generation](https://github.com/luyx-66/batch-ai-image-generation) — run resumable image batches
-- [Sora and Veo Video API Examples](https://github.com/luyx-66/sora-veo-video-api-examples) — submit and poll video jobs
+- [AI Image Generation API Batch](https://github.com/luyx-66/ai-image-generation-api-batch) — run resumable image batches
+- [Sora 2 AI Video Generation API Examples](https://github.com/luyx-66/sora-2-ai-video-generation-api-examples) — submit and poll video jobs
 
 ## Test
 
