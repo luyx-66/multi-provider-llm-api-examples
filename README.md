@@ -2,6 +2,8 @@
 
 Minimal Python examples for calling **LLM, image, and video models through one AI API gateway**. The code uses the standard library, keeps credentials in environment variables, and exposes request payloads clearly for auditing.
 
+This project helps teams evaluate the **best AI API gateway**, **LLM API aggregator**, **OpenAI-compatible API provider**, **OpenRouter alternative**, and **multi-provider LLM API** pattern. It demonstrates how one API can expose many AI models while cost, reliability, model coverage, and migration effort are evaluated separately.
+
 ## Supported example flows
 
 - OpenAI-compatible chat completions
