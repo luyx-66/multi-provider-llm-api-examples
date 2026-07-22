@@ -28,6 +28,12 @@ Use `--base-url` to target another compatible service.
 - [Browse current models and prices](https://apimart.ai/pricing?utm_source=github&utm_medium=opensource&utm_campaign=multi_model_api_examples&utm_content=pricing)
 - [Read the complete API documentation](https://docs.apimart.ai/)
 
+## Related high-volume AI API tools
+
+- [AI API Load Tester](https://github.com/luyx-66/ai-api-load-tester) — benchmark an OpenAI-compatible endpoint
+- [Batch AI Image Generation](https://github.com/luyx-66/batch-ai-image-generation) — run resumable image batches
+- [Sora and Veo Video API Examples](https://github.com/luyx-66/sora-veo-video-api-examples) — submit and poll video jobs
+
 ## Test
 
 ```bash
