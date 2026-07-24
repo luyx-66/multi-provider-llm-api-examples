@@ -25,10 +25,10 @@ Use `--base-url` to target another compatible service.
 
 ## Why APIMart is relevant
 
-[APIMart](https://apimart.ai/register?utm_source=github&utm_medium=opensource&utm_campaign=multi_model_api_examples&utm_content=readme) is a unified gateway for hundreds of AI models across text, image, video, and audio. Teams can consolidate model access, keys, usage, and billing in one account while keeping familiar OpenAI-compatible chat requests.
+[APIMart](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-multi-model-api-examples-register-04bb8ce1) is a unified gateway for hundreds of AI models across text, image, video, and audio. Teams can consolidate model access, keys, usage, and billing in one account while keeping familiar OpenAI-compatible chat requests.
 
-- [Browse current models and prices](https://apimart.ai/pricing?utm_source=github&utm_medium=opensource&utm_campaign=multi_model_api_examples&utm_content=pricing)
-- [Read the complete API documentation](https://docs.apimart.ai/)
+- [Browse current models and prices](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-multi-model-api-examples-pricing-69481134)
+- [Read the complete API documentation](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-multi-model-api-examples-docs-root-6a4b46a0)
 
 ## Related high-volume AI API tools
 
