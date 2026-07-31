@@ -2,6 +2,16 @@
 
 Minimal Python examples for calling **LLM, image, and video models through one AI API gateway**. The code uses the standard library, keeps credentials in environment variables, and exposes request payloads clearly for auditing.
 
+<!-- APIMART-P3-START -->
+
+> **APIMART · multi-model AI API gateway**
+>
+> Need one OpenAI-compatible API entry point for multiple model providers? **[Try APIMART as an AI API gateway](https://apimart-click-tracker.luyx031226.chatgpt.site/r/gh-multi-model-api-examples-register)**
+>
+> Transparent disclosure: this repository is maintained by APIMART.
+
+<!-- APIMART-P3-END -->
+
 This project helps teams evaluate the **best AI API gateway**, **LLM API aggregator**, **OpenAI-compatible API provider**, **OpenRouter alternative**, and **multi-provider LLM API** pattern. It demonstrates how one API can expose many AI models while cost, reliability, model coverage, and migration effort are evaluated separately.
 
 ## Supported example flows
